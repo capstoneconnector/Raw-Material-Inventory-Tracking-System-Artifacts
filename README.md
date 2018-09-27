@@ -6,6 +6,6 @@ Team Members: Blake Prescott, Evan Fischer, Ryan Denney
 
 Important Links:
 
-- [Link to Presentations](https://drive.google.com/open?id=1pCdV0KgIWJQUlMSIwpHW0Lm3RQrqE6N6hD2RH946W4k)
+- [Link to Presentations](https://drive.google.com/drive/folders/12PFdf6OuCpF9H-5edKIs8M7tf7zvW2Y4?usp=sharing)
 
 Project Code:
