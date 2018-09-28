@@ -1,0 +1,53 @@
+9/28/2018 - CS Lounge
+Team meeting 
+Present: Ryan, Blake, Evan
+
+Notes from after the presentation:
+  Ask Bassam about
+    If he orders from a distributor
+    What his ordering process is (tablet, cash register, other)
+    Expectations as to how automatic the process is 
+
+Requirements:
+  As the restaurant owner, I want to be notified when certain high cost materials need to be restocked.
+  As the restaurant owner, I want to be notified when selected materials are about to expire.
+  As the restaurant owner, I want to see a prediction of when a material is going to go out of stock. 
+
+  As the restaurant owner, I want to know how much material I have left at any given time.
+  As the restaurant owner, I want to know how much material is being used in different menu items. 
+
+  As the restaurant owner, I want to know the cost of materials being used in menu items. 
+  As an owner of multiple restaurants, I want to be able to adapt this to other restaurants. 
+
+  As the restaurant owner, I want to be able to add and remove specific ingredients from the list of tracked items.
+  As the restaurant owner, I want to be able to see how much of each material was used at the end of day/week/month. 
+
+Brainstorming:
+  -If we are able to get information from his payment method automatically, we will be able to create software that tracks his 
+  sales and allows us to track his use of material through that. However, whether or not we can do that depends on his current 
+  payment system.
+  -We could have him input it manually.
+  -We could have the kitchen staff input it manually.
+  -We could have an algorithm that generates a margin for error on how much material he has left.
+
+
+
+
+Useful Technology:
+  Flutter
+    -Google’s SDK for iOS and Android app development
+    -Works great with Firebase
+    -Object-oriented
+    -Easy transition from Java/Python and quick to learn (especially compared to React Native) 
+  Firebase
+    -Used great with Flutter, but may have too many limitations.
+  Visual Studio Code
+    -Easy to setup projects
+    -Works great with version control
+    -Good for app development using React Native and Flutter
+    Great for programming using react
+  React
+    -If we need to design a web page instead, react is a useful Javascript Library
+    -Making a web page that functions well on smartphone browsers would be great too. 
+    -Lets Bassam input data and analyze data both on his desktop and phone. 
+    However, it may come with a large learning curve. 
