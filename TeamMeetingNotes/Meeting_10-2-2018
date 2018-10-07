@@ -1,0 +1,30 @@
+10/2/2018 - CS Lounge
+Team meeting 
+Present: Ryan, Blake, Evan
+
+Requirements for Requirements Assignment:
+  Description: Bassam wants to utilize a software to track the raw material in his restaurant. In restaurants, ingredients are bought in bulk sizes and used in small sizes for each food. He wants to track how much ingredients are used at the end of the day/week/month for specific menu items. He also wants to calculate and track the cost of each ingredient in a food item. The system will also allow him to create notifications about certain raw materials when Bassam needs to restock them.
+
+  Requirements:
+  As the restaurant owner, I want to be notified when certain high cost materials need to be restocked.
+  As the restaurant owner, I want to be notified when selected materials are about to expire.
+  As the restaurant owner, I want to see a prediction of when a material is going to go out of stock. 
+
+  As the restaurant owner, I want to know how much material I have left at any given time.
+  As the restaurant owner, I want to know how much material is being used in different menu items. 
+
+  As the restaurant owner, I want to know the cost of materials being used in menu items. 
+  As an owner of multiple restaurants, I want to be able to adapt this to other restaurants. 
+
+  As  the restaurant owner, I want to be able to add and remove specific ingredients from the list of tracked items.
+  As the restaurant owner, I want to be able to see how much of each material was used at the end of day/week/month. 
+  
+  
+To Do:
+  - add post-email requirements
+  - organize into High, Medium, and Low priority. 
+  - take away any unneeded
+  
+Meeting Remotely:
+  - Saturday, Sunday, or Monday over discord 
+  - Afternoon
