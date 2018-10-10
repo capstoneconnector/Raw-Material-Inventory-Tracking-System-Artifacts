@@ -5,7 +5,8 @@ Bassam wants to utilize a software to track the raw material in his restaurant. 
 Team Members: Blake Prescott, Evan Fischer, Ryan Denney
 
 Important Links:
-
-- [Link to Presentations](https://drive.google.com/drive/folders/12PFdf6OuCpF9H-5edKIs8M7tf7zvW2Y4?usp=sharing)
+- [Link to Client Meeting Notes](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/ClientMeetingNotes)
+- [Link to Team Meeting Notes](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/TeamMeetingNotes)
+- [Link to Presentations](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/Presentations)
 
 Project Code:
