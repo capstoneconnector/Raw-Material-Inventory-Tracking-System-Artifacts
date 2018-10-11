@@ -1,0 +1,60 @@
+**Description:** Bassam wants to utilize a software to track the raw material in his restaurant. In restaurants, 
+ingredients are bought in bulk sizes and used in small sizes for each food. He wants to track how much ingredients 
+are used at the end of the day/week/month for specific menu items. He also wants to calculate and track the cost of each 
+ingredient in a food item. The system will also allow him to create notifications about certain raw materials when Bassam needs 
+to restock them.
+
+**User Classes:**
+  Restaurant Owner
+
+
+**Requirements:**
+
+  **Technical constraints**
+
+  The software must have access to sales in order to track materials in real time.
+  The software must have access to internet in order to access and store data.
+  The software must be able to reference the date/time in order to track a material’s expiration date.
+
+  **Functional requirements**
+
+    The software must be able to track materials used. (High)
+    The software must be able to calculate how much of each materials is left. (High)
+
+    The software must notify the restaurant owner when materials must be restocked. (Where it’s because they’re low on a material or 
+    if that material is about to expire) (High)
+
+    The restaurant owner must be able to input new materials by entering the material name, the total amount of the material, and 
+    the total cost of the material. (High)
+    The restaurant owner must be able to set a material as “restocked” to reset the tracking of a material. (Medium)
+    The restaurant owner must be able to add menu items along with the amount of materials used to make the menu item. (Medium)
+
+    The software must be able to calculate the cost of making menu items based on the cost of the materials used to make them. (Low)
+
+    The software must allow the user to separate inventory tracking among restaurants. (Medium)
+
+  **Non-functional requirements**
+
+    The software must notify the user two weeks in ahead of when a material needs to be restocked. (Medium)
+    The software must be able to track at least the five items Bassam wants to test. (High)
+    The software must be able to track at least both Damask Cafe’s and Two Cats Cafe’s inventories. (Medium) 
+
+**Use Cases:**
+
+  As the restaurant owner, I want to be notified when certain high cost materials need to be restocked 
+  As the restaurant owner, I want to be notified when selected materials are about to expire.
+  As the restaurant owner, I want to see a prediction of when a material is going to go out of stock. 
+
+  As the restaurant owner, I want to know how much material I have left at any given time.
+  As the restaurant owner, I want to know how much material is being used in different menu items. 
+
+  As the restaurant owner, I want to know the cost of materials being used in menu items. 
+  As an owner of multiple restaurants, I want to be able to adapt this to other restaurants. 
+
+  As the restaurant owner, I want to be able to add and remove specific materials from the list of tracked items.
+  As a restaurant owner I want to be able to input when a tracked material has been restocked.
+  As the restaurant owner, I want to be able to see how much of each material was used at the end of day/week/month. 
+  As a restaurant owner, I want to view the materials in the tracked list.
+
+
+**Assumptions**
