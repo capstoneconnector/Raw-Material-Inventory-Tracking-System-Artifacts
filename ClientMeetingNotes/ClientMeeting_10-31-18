@@ -1,0 +1,50 @@
+Client Meeting Notes
+10/31/2018
+  - Update of what we’ve done
+  - Questions
+    Do you want employees to have access to the software?
+      “It depends on the functionality”
+      Vague, ask for more clarification
+  - Discussed punctuality/email correspondence
+      We’ll communicate more through text/email
+      Text him when we send him an email
+  - Went through the prototype and requirements
+      Headed by Evan
+      Highlighted main functions, ability to work with multiple restaurants
+      Suggested Changes
+        “Why did you choose this format?”
+            Based off professional formats
+             We can change it
+   - He’d like us to have authentication in the beginning, allowing other users to work on it. 
+        This will include user creation
+          ability to give users different permissions
+   - Location based services to differentiate between two cats and damask
+        Wants inventory to be tracked by
+            Numbers
+            Pound
+            Example
+              Lamb
+              Bought 40 lbs
+              1 order is 4 ounces
+              Spent $200
+              Prepared 10 lbs
+              Sold 4 orders for X
+              Need to convert orders to lbs (we can get orders from point of sale system)
+              Track how much money this has made
+              How much is left after preparation
+              When the inventory reaches a critical amount, it’ll flag it for restocking
+  - “You guys are going to create an inventory tracking system. How are you going to track the inventory?”
+         Point of sale system
+         Ideally it’ll be tracked automatically
+            “It’s too complicated for you to always be in communication with it”
+             “Manual is fine, but you’re gonna need a background database to track all of the information.”
+          How often do you buy stock for your inventory?
+            “It depends on the item, but generally weekly.”
+          System should track how much of the item was added, how much this cost, how much has been prepared, how many orders have been sold, how much has been sold, how much money was made, how much remains. 
+  - Web App vs Desktop App vs Mobile App
+        Up to Bassam
+        He rather have us focus on the solution to the database right now
+        Get back to that question later
+  - Next Meeting
+      November 19th (Week of Thanksgiving)
+      Monday
