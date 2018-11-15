@@ -12,3 +12,5 @@ Important Links:
 - [Link to Presentations](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Artifacts/tree/master/Presentations)
 
 Project Code:
+
+- [Link to Code Repo](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System/blob/master/README.md)
