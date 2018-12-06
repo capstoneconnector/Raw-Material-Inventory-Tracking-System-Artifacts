@@ -13,4 +13,4 @@ Important Links:
 
 Project Code:
 
-- [Link to Code Repo](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System/blob/master/README.md)
+- [Link to Code Repo](https://github.com/erfischer/Raw-Material-Inventory-Tracking-Code)
