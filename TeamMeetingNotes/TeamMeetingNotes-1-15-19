@@ -1,0 +1,63 @@
+1/15/19
+In Class
+Discussed the Kanban board
+    Blake and Ryan need to pick tasks beyond January
+Discussed tutorials for ReactJS
+    https://youtu.be/pgAvVxowaYU
+    https://youtu.be/JPT3bFIwJYA
+    https://youtu.be/uextYhQGP6k
+    
+Over Discord
+Assigned roles on the Kanban board
+
+TODO
+Blake
+    January
+        Design Page Templates:
+            Summary Page
+                Summarizes all instances of a material
+            Instance Page
+                Displays all instances of a material
+    February
+        User Input:
+            Buttons
+            Text fields
+            Etc.
+    March
+        Notifications:
+            Low material
+            Expiration
+            Specify when you want to be notified about a low material/expiration
+Ryan
+    January
+        Design Page Templates:
+            Restaurant Select Page
+                Shows all present restaurants
+                Select restaurant to view its data
+    February
+        Program front end and style results
+        Restaurants
+            Select restaurant
+            Add restaurant
+    March
+        Expiration Date:
+            Have the earliest expiration date on summary page
+Evan
+    January
+        All possible queries:
+            Get by material type 
+            Get by expiration
+            Get by restaurant
+            Etc.
+            Add Material Type
+            Add Instance of Material
+            Add Restaurant
+        Setup API :
+            Should be able to make a JSON file out of results
+        Runnable on Local Server
+        Mockup design for front-end
+    February
+        Authentication:
+            Log into selected restaurant 
+    March
+        Start setting up with a host if possible
