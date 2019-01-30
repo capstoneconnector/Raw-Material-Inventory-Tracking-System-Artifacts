@@ -1,0 +1,34 @@
+Held at 3:00 PM on 1/30/2019
+Held over Skype
+  Bassam is in California
+Summary
+  Started programming
+  Talk about the tech stack
+    Changing it from XAMP to Django Python
+      “Did you have to learn python?”
+        No, it was one of the first languages we learned
+      Easier, simpler alternative that was considered last semester
+      Bassam gave us free reign when it came to choosing our tech stack
+      He greatly approved of django
+  We’re behind on the React front end
+Here’s what we have
+  This is our interface rendered in HTML
+    Summary page
+      Shows tracked materials
+      Not currently calculating revenue or notifying expiration dates(this was for a later iteration)
+      Does show the earliest expiration date
+      Tracks the amount of materials 
+    Material instance page
+      Shows every instance of an tracked material type and the info about them
+    Materials
+      Allows you to add instances(batches) of materials with amounts of materials and prepared amounts to the instance page
+What’s Next:
+  Authentication
+  Restaurants
+  More information for summary page and instances
+Bassam’s Comments
+  “I like how you track the instances, but it needs some sort of method for tracking what’s unaccounted for”
+  “We need to have timestamps for additions and updates to materials”
+  “More information needs to be displayed in the summary page”
+  “Show the user who made an update along with the timestamp”
+  “Make the function as simple as possible, focus on keeping track of inventory”
