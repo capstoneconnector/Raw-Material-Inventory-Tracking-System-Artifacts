@@ -1,0 +1,26 @@
+Held at 3:30 on 2/26/2019
+Held over Skype
+Blake Prescott was the minute recorder
+Summary
+	We abandoned ReactJS
+	Barebones authentication
+	Tracking activity
+		dates/users who updated things
+Demo over screen sharing
+	Login required now
+	When an instance is added it’ll display who updated it and when they updated it
+	The admin panel will show info about who did what
+Background tasks for notifications and hosting
+  Bassam has no preference as far as hosting goes
+Creating user accounts
+  Do you want people to be able to register accounts (for security purposes)?
+    Do you want an email or something?
+    “Make a hierarchical system where there’s an admin who can give registered users permissions/privileges. Allow for flexibility. Allows us to keep records of who did what.”
+    “Right now just have it be controlled by an admin”
+
+
+Bassam’s Comments
+	Get one restaurant working before we have it go for multiple restaurants.
+		(focus on history changes and such)
+  I want to be more involved in what you guys are doing as far as progress reports go.
+  I’d like to meet in person next time if possible.	
