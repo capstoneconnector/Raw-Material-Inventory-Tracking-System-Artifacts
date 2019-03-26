@@ -1,0 +1,27 @@
+Held at 3:30 on 3/26/2019
+Held over Skype
+Blake Prescott was the minute recorder
+Summary
+	Provided a demo over screen share
+	Reworked UI
+	Added activity page
+	Redid inventory instances page
+	Added a navigation bar
+	Added time stamps
+	Additions stuff is pinned to the bottom of the screen
+	Admins have access to an admin panel in which they can create new user accounts/passwords
+
+Comments from us
+	Iteration 3 is almost it, we have one week of development left
+	Hosting is still a problem
+	We can make a notifications page without a hosting service with limited functionality
+	Iteration 4 is about documenting the functionality of the project and how to install it, tweek it, etc
+	We want to try to manage expired inventory
+	
+Symposium
+	“Is there anything we shouldn’t talk about?”
+		“No you guys are good.”
+
+Bassam’s Comments
+	“Is there any free services to use for hosting (basically)? Look it up to use for your hosting stuff.”
+	“I know you only have one week for documentation, so lets do it for one store with a few items, and base your documentation on that. Keep it very simple.”
