@@ -1,5 +1,5 @@
 # DEVELOPER’S MANUAL
-Written by Evan Fischer (evanrjfischer@gmail.com)
+#
 ### SET UP
 #
 ##### IDE
@@ -8,7 +8,7 @@ Our IDE of choice is Jet Brains' Pycharm which can be installed [here](https://w
 You can use Pycharm's version control system to clone the repository. __VCS > Checkout from version control > git__  and you will use this repository : https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End
 ##### Virtual Environment
 The virtual environment is required and must include all libraries stated in the requirements.txt file. Under pycharm settings, you must select a Project Interpreter and add a Virtual Environment. The requirements.txt file with prompt you to install all necessary libraries.
-
+#
 ### IMPORTANT FILES
 #
 ##### VIEWS
@@ -22,6 +22,7 @@ This file is used to construct the relational database used in the software. Whe
 To traverse the application, different views are called and rendered using templates. In Urls.py, we assign url addresses to the appropriate view.
 ##### TEMPLATES
 A series of HTML and CSS files used for rendering different views. 
+#
 ### RELATIONAL DATABASE
 #
 ##### Models
