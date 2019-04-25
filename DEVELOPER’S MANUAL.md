@@ -9,7 +9,7 @@ You can use Pycharm's version control system to clone the repository. __VCS > Ch
 ##### Virtual Environment
 The virtual environment is required and must include all libraries stated in the requirements.txt file. Under pycharm settings, you must select a Project Interpreter and add a Virtual Environment. The requirements.txt file with prompt you to install all necessary libraries.
 #
-### IMPORTANT FILES
+### FILE OVERVIEW
 #
 ##### VIEWS
 The functions in views communicate with the database to output information such as tracked materials, stock, and user activity. These methods also help to make changes to the database (such as removing, updating, and adding materials). Some of these methods render into html templates. 
