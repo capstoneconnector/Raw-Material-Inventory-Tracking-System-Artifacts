@@ -40,7 +40,20 @@
 #### Remove Inventory Instance
   - Click the “Remove” button next to the instance of the material you wish to remove
   - The new information on the material will be reflected in the summary page, and the change will be logged in the activity page
-
+----
 #### Admin Panel Access
  - Click the “Admin Panel” on the right side of the navigation bar
+ 
+##### Adding User Accounts
+ - Click "Users" on the Admin Panel dashboard
+ - click "add user" in top-right corner.
+ - Enter a username and password
+ - repeat password in password confirmation
+ - click SAVE
+##### Editing User Accounts
+ - Click "Users" on the Admin Panel dashboard
+ - Click on the username of the user account you'd like to edit.
+ - On this page you can change usernames, firstnames, lastnames, email addresses, etc.
+ - To change password, click on "this form" under the password description.
+ 
 
