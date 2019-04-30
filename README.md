@@ -13,5 +13,4 @@ Important Links:
 
 Project Code:
 
-- [Link to Back-End Code Repo](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End)
-- [Link to Front-End Code Repo](https://github.com/erfischer/Raw-Material-Inventory-System-Front-End)
+- [Link to Code Repo](https://github.com/erfischer/Raw-Material-Inventory-Tracking-System-Back-End)
